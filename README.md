@@ -270,7 +270,7 @@
 
 ### 路线图
 
-![10](Day10.png)
+![10](pictures/Day10.png)
 
 
 
